@@ -1,4 +1,5 @@
-<h1>Hi, I'm Dariaus, an <a href="https://linkedin.com/in/DariausPhilson">IT Professional</a></h1>
+<h1>Hi, I'm Dariaus!
+<a href="https://linkedin.com/in/DariausPhilson">IT Professional and Search Engine Marketer</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
